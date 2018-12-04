@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#414350</color>
+    <color name="colorPrimaryDark">#444550</color>
+    <color name="colorAccent">#6a6c7e</color>
+    <color name="leagueLogoBackground">#e1dede</color>
+    <color name="textColor">#FFF</color>
+    <color name="branchTextColor">#999797</color>
+    <color name="red">#dde11717</color>
+
+    <color name="navigationBarColor">#000000</color>
+</resources>
